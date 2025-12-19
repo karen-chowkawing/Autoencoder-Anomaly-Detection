@@ -1,5 +1,5 @@
 # Autoencoder-Anomaly-Detection
-This folder stores Demo Scripts for Autoencoder. This includes processing, oversampling, model building, training, prediction, and validation results.
+This folder stores Demo Scripts for Autoencoder. This includes processing, re-sampling, model building, training, prediction, and validation results.
 
 
 
